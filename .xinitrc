@@ -41,6 +41,9 @@ fi
 export LANG=zh_CN.UTF-8
 export LC_ALL=zh_CN.UTF-8
 
+# disable touchpad
+xinput disable 16
+
 # feh --bg-fill /home/david/Pictures/Wallpapers/abc70.jpg
 feh --bg-fill /home/david/Pictures/Wallpapers/arch.jpg
 # feh --bg-fill /home/david/Pictures/Wallpapers/horses.jpg
