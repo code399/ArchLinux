@@ -1,0 +1,16 @@
+2023-08-07 10:53:04 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-08-07 10:53:04 Checking for update using Github
+2023-08-07 10:53:05 Success.
+2023-08-07 10:53:05 Latest version is 1.3.7
+2023-08-07 10:53:05 App is up to date.
+2023-08-07 10:58:54 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-08-07 10:58:54 Checking for update using Github
+2023-08-08 14:40:32 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-08-08 14:40:32 Checking for update using Github
+2023-08-15 12:04:16 Loading main app package /usr/lib/obsidian/obsidian.asar
+2023-08-15 12:04:16 Checking for update using Github
+2023-08-15 12:06:06 Failed to check for update using Github (net::ERR_CONNECTION_RESET)
+2023-08-15 12:06:06 Checking for update using obsidian.md
+2023-08-15 12:06:06 Success.
+2023-08-15 12:06:06 Latest version is 1.3.7
+2023-08-15 12:06:06 App is up to date.
